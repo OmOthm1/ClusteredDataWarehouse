@@ -29,8 +29,8 @@ Clustered Data Warehouse is a Spring Boot application designed to accept and per
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/clustereddatawarehouse.git
-    cd clustereddatawarehouse
+    git clone https://github.com/OmOthm1/ClusteredDataWarehouse.git
+    cd ClusteredDataWarehouse
     ```
 
 2. **Build the Maven project**:
